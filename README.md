@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## GitHub Profile Summary Cards
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuProg&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KazuProg&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KazuProg&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KazuProg&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KazuProg&theme=default&utcOffset=9)
+
 ## 🌱 Skills
 <img src="https://skillicons.dev/icons?i=py,js,ts,go,java,cs,php,bash,html,css,md" />
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
