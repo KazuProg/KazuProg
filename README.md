@@ -23,14 +23,33 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KazuProg&theme=default&utcOffset=9)
 
 ## 🌱 Skills
+Languages
+
 <img src="https://skillicons.dev/icons?i=py,js,ts,go,java,cs,php,bash,html,css,md" />
+
+Frontend
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+
+Backend & Runtime
+
 <img src="https://skillicons.dev/icons?i=nodejs,npm,nginx" />
+
+Database
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
+
+Infrastructure & DevOps
+
 <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,cloudflare,prometheus,grafana" />
+
+OS & Hardware
+
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,raspberrypi,arduino" />
+
+Tool & Others
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,discord,gmail,twitter" />
-<img src="https://skillicons.dev/icons?i=discord,twitter" />
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
